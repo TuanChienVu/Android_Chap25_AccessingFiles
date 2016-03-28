@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.vutuanchien.android_chap25_readfile_internalstorage"
+        applicationId "com.vutuanchien.android_chap25_readwritefile_internalstorage"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

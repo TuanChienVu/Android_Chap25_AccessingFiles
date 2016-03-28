@@ -1,4 +1,4 @@
-package com.vutuanchien.android_chap25_readfile_internalstorage;
+package com.vutuanchien.android_chap25_readwritefile_internalstorage;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

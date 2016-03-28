@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_Chap25_ReadFile_InternalStorage.iml" filepath="$PROJECT_DIR$/Android_Chap25_ReadFile_InternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Chap25_ReadWriteFile_InternalStorage.iml" filepath="$PROJECT_DIR$/Android_Chap25_ReadWriteFile_InternalStorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

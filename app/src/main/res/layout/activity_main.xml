@@ -7,20 +7,36 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btnreaddata"
+        android:id="@+id/btnReadData"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="readData"
         android:text="Read Data" />
 
     <EditText
-        android:id="@+id/eddata"
+        android:id="@+id/edDataRead"
         android:layout_width="match_parent"
-        android:layout_height="0dip"
-        android:layout_weight="2"
+        android:layout_height="200dp"
+        android:ems="10"
+        android:gravity="top|left"
+        android:inputType="textMultiLine"></EditText>
+
+    <Button
+        android:id="@+id/btnWriteData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="writeData"
+        android:text="Write Data" />
+
+    <EditText
+        android:id="@+id/edDataWrite"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
         android:ems="10"
         android:gravity="top|left"
         android:inputType="textMultiLine">
 
         <requestFocus />
     </EditText>
+
 </LinearLayout>
